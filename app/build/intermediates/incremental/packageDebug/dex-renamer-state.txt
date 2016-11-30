@@ -1,0 +1,7 @@
+#Tue Nov 29 22:49:25 WIB 2016
+base.0=/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c4e249485c48a6cea8410b850f451450345af98
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4e73168bac9818e46290c6ea9d10c52973be5efc/classes.dex
+base.1=/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4e73168bac9818e46290c6ea9d10c52973be5efc
+file.0=/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c4e249485c48a6cea8410b850f451450345af98/classes.dex

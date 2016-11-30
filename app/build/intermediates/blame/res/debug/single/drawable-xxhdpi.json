@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_new.png",
+        "source": "/home/dafidzeko/Documents/BelajarTabLayout/app/src/main/res/drawable-xxhdpi/ic_new.png"
+    },
+    {
+        "merged": "/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_popular.png",
+        "source": "/home/dafidzeko/Documents/BelajarTabLayout/app/src/main/res/drawable-xxhdpi/ic_popular.png"
+    },
+    {
+        "merged": "/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_play.png",
+        "source": "/home/dafidzeko/Documents/BelajarTabLayout/app/src/main/res/drawable-xxhdpi/ic_play.png"
+    }
+]

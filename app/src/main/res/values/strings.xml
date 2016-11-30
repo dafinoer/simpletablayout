@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BelajarTabLayout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">fragment play</string>
+    <string name="fragment_populer">Fragment Populer</string>
+    <string name="fragment_terbaru">Fragment Terbaru</string>
+</resources>

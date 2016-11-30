@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e4f32cfd1400993e16c8a051538b3805bfea86d">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c4e249485c48a6cea8410b850f451450345af98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_e6fdf9cbef1653436e8fc12d585c1ec657efdc85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="957873f81a6bd48863400c64fd3e9c830579d492">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4e73168bac9818e46290c6ea9d10c52973be5efc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_0aedea7edcc4a52a8fb09ba8a16d3207c91db90a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_e53cb85d443a7b66d13bdfcf44221459b355ab7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_de44e47ebfc4d5cdff678cc248306c58b4f16703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1f8d2216a49f281e7f6c1e59f19cdada662e0d2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_71bb4677ab60ff7bcdda3e2a71b3184d425c3a0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_6a5e39ee9d98c0cdad1d5d9ee559f269f4133b86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_95823beaf9bafc37ccd1df5247eeca69a5509093/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4f55a4724cb6841c54c55117fe0636cfb4be03f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_95cbdef23baed99933a564b7ac2217495f505a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8f96078591dac9f016739051f746728331c3ddd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_5e63503ab3457cc6d89bc98d4384d31a788e4c37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_43cf966780d9738ecf9983199536f01ee3036538/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_46d3ec58098b81a4ef77595c23ebf80e375560f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_da9802b0aacf7161aa031e0a5839b8d1553ccad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e65a98748e41a275eadc0f501b1177647aa3c289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_1d7fc3f266a7cb9e2bbf83c8601646524da0178c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dafidzeko/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/dafidzeko/Documents/BelajarTabLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_f3b23ced7edd3bd13ec35f0f677f5ca140790048/classes.dex" />
+    </item>
+
+</items>
